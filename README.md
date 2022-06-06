@@ -4,7 +4,6 @@ Java backend is an area I'm focusing on right now.
 
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgagur)](https://github.com/anuraghazra/github-readme-stats)
 
 
